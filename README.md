@@ -28,4 +28,4 @@ Install Nginx reverse proxy to make this application available
 
 `sudo apt-get update`
 `sudo apt install nginx`
-## checking github webhook jenkins integration v2
+## checking github webhook jenkins integration v3
